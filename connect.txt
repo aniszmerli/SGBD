@@ -1,0 +1,2 @@
+connect system/anis56423679(password)
+connect sgbd1/tp
