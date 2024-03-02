@@ -1,2 +1,6 @@
 connect system/anis56423679(password)
-connect sgbd1/tp
+Create user sgbd2 identified by tp
+grant connect,resource,create view to sgbd2
+connect sgbd2/tp
+start path
+commit
